@@ -15,14 +15,6 @@ Este repositório tem como objetivo mostrar passo a passo como criar um reposit�
 
 ---
 
-## Tecnologias Utilizadas
-
-- ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-- ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-- ![Markdown](https://img.shields.io/badge/markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-
----
-
 ## Passo a Passo
 
 ### 1. Criar o Repositório no GitHub
